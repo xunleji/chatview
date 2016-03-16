@@ -1,0 +1,72 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- ChartView -->
+    
+	<!-- Distance from vertical label to vertical axis -->
+    <dimen name="axis_dist_from_label">5dp</dimen>
+
+    <!-- Axis thickness-->
+    <dimen name="axis_thickness">2dp</dimen>
+        
+    <!-- Text Labels size -->
+	<dimen name="font_size">10dp</dimen>    
+    
+    <!-- Grid thickness-->
+    <dimen name="grid_thickness">1dp</dimen>
+    
+    
+    <!-- LineChartView -->
+    <!-- Dot region radius used on click -->
+    <dimen name="dot_region_radius">18dp</dimen>
+   
+    
+    <!-- BarChartView -->
+    <dimen name="bar_spacing">6dp</dimen>
+    <dimen name="set_spacing">3dp</dimen>
+    
+    <dimen name="navigation_drawer_width">100dp</dimen>
+
+    <dimen name="card_margin">8dp</dimen>
+
+    <dimen name="button_size">40dp</dimen>
+    <dimen name="color_button_size">35dp</dimen>
+
+    <dimen name="four_button_margin">7dp</dimen>
+    <dimen name="three_button_margin">17dp</dimen>
+    <dimen name="two_button_margin">17dp</dimen>
+
+    <dimen name="enter_button_margin">6dp</dimen>
+
+    <dimen name="line_point_s">13dp</dimen>
+    <dimen name="line_point_m">20dp</dimen>
+    <dimen name="line_point_h">27dp</dimen>
+    <dimen name="line_point_x">35dp</dimen>
+
+    <dimen name="chart_button_size">100dp</dimen>
+
+    <dimen name="axis_label_size">50sp</dimen>
+
+    <dimen name="play_chart_padding">15dp</dimen>
+
+    <dimen name="card_toolbar_btn">30dp</dimen>
+    
+     <!-- Standart dimens for the color wheel -->
+    <dimen name="color_wheel_radius">124dp</dimen>
+    <dimen name="color_wheel_thickness">8dp</dimen>
+    <dimen name="color_center_halo_radius">60dp</dimen>
+    <dimen name="color_center_radius">54dp</dimen>
+    <dimen name="color_pointer_halo_radius">18dp</dimen>
+    <dimen name="color_pointer_radius">14dp</dimen>
+    
+     <!-- Standart dimens for the bars -->
+    <dimen name="bar_thickness">4dp</dimen>
+    <dimen name="bar_length">240dp</dimen>
+    <dimen name="bar_pointer_radius">6dp</dimen>
+    <dimen name="bar_pointer_halo_radius">14dp</dimen>
+    <dimen name="item_height">67dp</dimen>
+    <dimen name="section_div_height">20dp</dimen>
+</resources>
